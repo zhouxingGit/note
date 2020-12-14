@@ -20,4 +20,8 @@
 * [手写节流函数](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99%E8%8A%82%E6%B5%81%E5%87%BD%E6%95%B0)
 
 ## vue
-[vue 2.0 实现原理](https://github.com/zhouxingGit/note/wiki/vue-2.0-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%EF%BC%88%E5%BC%80%E5%8F%91%E8%80%85%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F%E5%8F%8A%E5%93%8D%E5%BA%94%E5%8E%9F%E7%90%86%EF%BC%89%E5%90%8E%E9%9D%A2%E5%86%8D%E8%A1%A5)
+[vue 2.0 监听者订阅者模式及响应原理](https://github.com/zhouxingGit/note/wiki/vue-2.0-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%EF%BC%88%E5%BC%80%E5%8F%91%E8%80%85%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F%E5%8F%8A%E5%93%8D%E5%BA%94%E5%8E%9F%E7%90%86%EF%BC%89%E5%90%8E%E9%9D%A2%E5%86%8D%E8%A1%A5)
+
+[vue3.0 响应式原理](https://github.com/zhouxingGit/note/wiki/vue3.0%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86)
+
+[vue2与vue3响应式原理区别](https://github.com/zhouxingGit/note/wiki/vue2.0%E4%B8%8Evue3.0%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86%E5%8C%BA%E5%88%AB)
