@@ -14,3 +14,6 @@
 
 ## css
 * [水平垂直居中布局](https://github.com/zhouxingGit/note/wiki/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%E5%B8%83%E5%B1%80)
+
+## 手写js
+* [手写防抖函数](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99%E9%98%B2%E6%8A%96%E5%87%BD%E6%95%B0)
