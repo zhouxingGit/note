@@ -17,3 +17,4 @@
 
 ## 手写js
 * [手写防抖函数](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99%E9%98%B2%E6%8A%96%E5%87%BD%E6%95%B0)
+* [手写节流函数](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99%E8%8A%82%E6%B5%81%E5%87%BD%E6%95%B0)
