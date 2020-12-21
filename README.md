@@ -37,6 +37,8 @@
 
 * [手写call](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99%E4%B8%80%E4%B8%AAcall)
 
+* [手写一个promise](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99%E4%B8%80%E4%B8%AApromise)
+
 ## vue
 
 * [vue 2.0 监听者订阅者模式及响应原理](https://github.com/zhouxingGit/note/wiki/vue-2.0-%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%EF%BC%88%E5%BC%80%E5%8F%91%E8%80%85%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F%E5%8F%8A%E5%93%8D%E5%BA%94%E5%8E%9F%E7%90%86%EF%BC%89%E5%90%8E%E9%9D%A2%E5%86%8D%E8%A1%A5)
