@@ -15,6 +15,7 @@
 ## ES6
 
 * [promise](https://github.com/zhouxingGit/note/wiki/promise)
+* [手写promise](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99promise) 
 
 ## webpack
 
