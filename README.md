@@ -53,6 +53,3 @@
 
 * [vue2与vue3响应式原理区别](https://github.com/zhouxingGit/note/wiki/vue2.0%E4%B8%8Evue3.0%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86%E5%8C%BA%E5%88%AB)
 
-* [vuex 的实现原理](https://github.com/zhouxingGit/note/wiki/vuex%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
-
-* [vue-router实现原理](https://github.com/zhouxingGit/note/wiki/vue-router%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
