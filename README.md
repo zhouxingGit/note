@@ -41,8 +41,6 @@
 
 * [手写call](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99%E4%B8%80%E4%B8%AAcall)
 
-* [手写一个promise](https://github.com/zhouxingGit/note/wiki/%E6%89%8B%E5%86%99%E4%B8%80%E4%B8%AApromise)
-
 * [ES5四种继承方式与Object.create()](https://github.com/zhouxingGit/note/wiki/ES5%E5%9B%9B%E7%A7%8D%E7%BB%A7%E6%89%BF%E6%96%B9%E5%BC%8F%E4%B8%8EObject.create())
 
 ## vue
